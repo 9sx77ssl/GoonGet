@@ -9,6 +9,7 @@ description = "CLI tool to fetch images/gifs/videos from Gelbooru and display th
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
+dependencies = ["requests"]
 
 [project.scripts]
 goonget = "goonget.main:main"
