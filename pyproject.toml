@@ -12,3 +12,4 @@ license = { text = "MIT" }
 
 [project.scripts]
 goonget = "goonget.main:main"
+gg = "goonget.main:main"
